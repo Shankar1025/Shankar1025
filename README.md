@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shankar</h1>
-<h3 align="center">A passionate full stackdeveloper from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 - 🌱 I’m currently learning **MERN stack,UIUX,Low code development**
 
